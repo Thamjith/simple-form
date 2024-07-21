@@ -10,7 +10,7 @@ This project demonstrates simple frontend validation using React Hook Form, Zod,
 
 ## Live Demo
 
-You can see a live demo of this project at: [simpleform.thamjiththaha.com](simpleform.thamjiththaha.com)
+You can see a live demo of this project at: [simpleform.thamjiththaha.com](https://simpleform.thamjiththaha.com)
 
 ## Technologies Used
 
